@@ -473,7 +473,7 @@ a {
 }
 
 
-/* ------------------ TABLETS ------------------ */
+/* Media Queries*/
 @media (max-width: 1024px) {
     .header-container {
         display: flex;
@@ -549,7 +549,6 @@ a {
     }
 }
 
-/* ------------------ MOBILE ------------------ */
 @media (max-width: 888px) {
     .header-container {
         display: flex;
